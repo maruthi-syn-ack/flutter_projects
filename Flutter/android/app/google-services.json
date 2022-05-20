@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1074714491191",
+    "project_id": "gfg-sit-web",
+    "storage_bucket": "gfg-sit-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074714491191:android:8959e03b1bb5193e10c2b2",
+        "android_client_info": {
+          "package_name": "com.example.f_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074714491191-l4hruociboqe8mmhqntnk0tj0nkjl7ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_PfzD-BDwG7Y8n9kJZIP586e-k-YVlgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074714491191-l4hruociboqe8mmhqntnk0tj0nkjl7ke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074714491191-sjpofrrnp4ecirukrbcct0brm46erk0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fAndroid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
